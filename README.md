@@ -2,10 +2,10 @@
 
 The homeworks for the ECE6397, State-space Estimation.
 
-* Homework 1: State-space model.
+* Homework 3: Expectation maximization algorithm.
 
 ## Update reports
 
-### @ 02/17/20
+### @ 02/27/20
 
-Create this project.
+Update this project.
